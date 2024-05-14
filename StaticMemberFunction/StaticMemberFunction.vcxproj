@@ -130,6 +130,7 @@
     <ClCompile Include="StaticMemberFunction.cpp" />
     <ClCompile Include="staticmemberfunction2.cpp" />
     <ClCompile Include="staticmemberfunction3.cpp" />
+    <ClCompile Include="staticmemberfunction4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
