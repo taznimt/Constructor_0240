@@ -18,5 +18,8 @@
     <ClCompile Include="StaticMemberFunction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="staticmemberfunction2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
