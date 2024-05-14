@@ -27,5 +27,8 @@
     <ClCompile Include="staticmemberfunction4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="staticmemberfunction5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
